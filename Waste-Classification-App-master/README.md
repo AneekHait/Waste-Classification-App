@@ -49,6 +49,5 @@ An application to classify an object into organic or recyclable.
 
 ## Contributors
 
-| [![Shrinidhi Anil Varna](https://avatars1.githubusercontent.com/u/32514046?s=460&u=df682293524053c34ccf75b31ccdfef03660c078&v=4 "Shrinidhi Anil Varna")](https://github.com/shrinidhi99)  | [![Avakash Bhat](https://avatars2.githubusercontent.com/u/17261046?s=460&v=4 "Avakash Bhat")](https://github.com/AB261) | [![Vybhav Pai](https://avatars3.githubusercontent.com/u/43813262?s=460&v=4 "Vybhav Pai")](https://github.com/vybhavpai) |
-|:---:|:---:|:---:|
-| Shrinidhi Anil Varna | Avakash Bhat | Vybhav Pai |
+Aneek Hait 
+https://www.linkedin.com/in/aneekhait/
