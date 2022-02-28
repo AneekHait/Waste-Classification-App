@@ -47,7 +47,7 @@ An application to classify an object into organic or recyclable.
 3. Select an image in the app either by capturing an image using camera or picking an image from the local internal storage.
 4. Upload the image to the cloud storage. Wait for a few seconds till the result is delivered.
 
-## Contributors
+## Contributor
 
 Aneek Hait 
 https://www.linkedin.com/in/aneekhait/
